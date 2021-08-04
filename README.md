@@ -1,8 +1,8 @@
 # ZooManagementSystem
 This a ZooManagement Website 
 In this project there are two module i.e.
-User
-Admin
+User.
+Admin.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 User:
 User can visit the website , and can Book safari tour, with different timing with different Prices.
